@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.wantedly.com)",
+      "WebFetch(domain:nulab.com)",
+      "WebFetch(domain:nulab.co.jp)",
+      "WebFetch(domain:careers.nulab.com)"
     ]
   }
 }
